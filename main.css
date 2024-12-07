@@ -1,0 +1,17 @@
+<style>
+body {
+  background-image: url('bg.jpeg');
+  backround-repeat: no-repeat;
+}
+
+
+
+marquee {
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+
+</style>
